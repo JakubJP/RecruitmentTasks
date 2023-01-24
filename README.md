@@ -6,7 +6,3 @@
 5) Finding Primes
 6) Common Digit
 7) Digit Sum
-
-# Recruitement Tasks JS
-1) Optional Power
-2) Fix Age
